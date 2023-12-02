@@ -1,0 +1,5 @@
+2023-12-02 20:39:23,611 INFO [root] [__init__.py(<module>:6)] - info
+2023-12-02 20:39:23,612 ERROR [root] [__init__.py(<module>:8)] - error
+2023-12-02 20:40:23,089 INFO [root] [__init__.py(<module>:6)] - info
+2023-12-02 20:40:23,089 ERROR [root] [__init__.py(<module>:8)] - error
+2023-12-02 20:40:23,240 INFO [root] [login.py(test04_get_img_code_random_char:48)] - gjrebklr
